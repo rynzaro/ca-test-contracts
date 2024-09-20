@@ -1,1 +1,0 @@
-/home/efte/Documents/projects/NEAR/REDACTED/chain-signatures-contracts/mint-eth/target/debug/libmint_eth.so: /home/efte/Documents/projects/NEAR/REDACTED/chain-signatures-contracts/mint-eth/src/external.rs /home/efte/Documents/projects/NEAR/REDACTED/chain-signatures-contracts/mint-eth/src/lib.rs
