@@ -1,0 +1,6 @@
+
+Contract: "v1.signer-prod.testnet"
+{"request": {"payload": [23,87,68,241,163,243,36,77,146,193,148,65,166,75,13,232,177,167,210,91,59,134,68,219,138,165,229,202,230,108,62,161],"path": "ethereum-1","key_version": 0}}
+
+console command
+near contract call-function as-transaction v1.signer-prod.testnet sign json-args '{"request": {"payload": [23,87,68,241,163,243,36,77,146,193,148,65,166,75,13,232,177,167,210,91,59,134,68,219,138,165,229,202,230,108,62,161],"path": "ethereum-1","key_version": 0}}' prepaid-gas '250.0 Tgas' attached-deposit '0.2 NEAR' sign-as blekdragon.testnet network-config testnet sign-with-keychain send
